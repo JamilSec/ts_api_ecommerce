@@ -8,6 +8,9 @@ build/
 # TypeScript cache
 *.tsbuildinfo
 
+# Coverage reports (Jest)
+coverage/
+
 # Env files (credenciales)
 .env
 
